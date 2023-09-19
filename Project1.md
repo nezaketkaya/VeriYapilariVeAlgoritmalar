@@ -2,18 +2,31 @@
 ### Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Answer:
 [22, 27, 16, 2, 18, 6] (27'i 22'nin sağına taşı)
+
 [22, 27, 16, 2, 18, 6] (27 ile 22 yer değiştirir)
+
 [22, 27, 16, 2, 18, 6] (16'yı 27'nin soluna taşı)
+
 [22, 16, 27, 2, 18, 6] (27 ile 16 yer değiştirir)
+
 [16, 22, 27, 2, 18, 6] (22 ile 16 yer değiştirir)
+
 [16, 22, 27, 2, 18, 6] (2'yi 27'nin soluna taşı)
+
 [16, 22, 2, 27, 18, 6] (27 ile 2 yer değiştirir)
+
 [16, 2, 22, 27, 18, 6] (22 ile 2 yer değiştirir)
+
 [2, 16, 22, 27, 18, 6] (16 ile 2 yer değiştirir)
+
 [2, 16, 22, 27, 18, 6] (18'i 27'nin soluna taşı)
+
 [2, 16, 22, 18, 27, 6] (27 ile 18 yer değiştirir)
+
 [2, 16, 18, 22, 27, 6] (22 ile 18 yer değiştirir)
+
 [2, 16, 18, 22, 27, 6] (16 ile 2 yer değiştirir)
+
 [2, 6, 16, 18, 22, 27] (6 ile 18, ardından 6 ile 16 yer değiştirir)
 
 ### Big-O gösterimini yazınız.
