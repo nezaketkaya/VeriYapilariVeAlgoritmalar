@@ -69,7 +69,7 @@
            \
              4
 
-### 2, 7 ve 5'in soluna, 1'in sağına, 3'ün soluna eklenir ve Binary-Search-Tree tamamlanır.
+### 2, 7 ve 5'in soluna, 1'in sağına, 3'ün soluna eklenir. 
               7
             /   \
           5       8
@@ -79,9 +79,5 @@
    0     3
        /   \
       2     4
-
-
-
-
-
-
+      
+### Ve Binary-Search-Tree tamamlanır.
