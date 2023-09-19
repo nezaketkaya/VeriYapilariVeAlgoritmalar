@@ -1,5 +1,5 @@
 ## [22,27,16,2,18,6] -> Insertion Sort
-## Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
+### Yukarı verilen dizinin sort türüne göre aşamalarını yazınız.
 Answer:
 [22, 27, 16, 2, 18, 6] (27'i 22'nin sağına taşı)
 [22, 27, 16, 2, 18, 6] (27 ile 22 yer değiştirir)
@@ -16,18 +16,19 @@ Answer:
 [2, 16, 18, 22, 27, 6] (16 ile 2 yer değiştirir)
 [2, 6, 16, 18, 22, 27] (6 ile 18, ardından 6 ile 16 yer değiştirir)
 
-## Big-O gösterimini yazınız.
+### Big-O gösterimini yazınız.
 Answer: O(n^2)
 
-## Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
-### Average case: Aradığımız sayının ortada olması
-### Worst case: Aradığımız sayının sonda olması
-### Best case: Aradığımız sayının dizinin en başında olması.
+### Time Complexity: Dizi sıralandıktan sonra 18 sayısı aşağıdaki case'lerden hangisinin kapsamına girer? Yazınız
+1. Average case: Aradığımız sayının ortada olması
+2. Worst case: Aradığımız sayının sonda olması
+3. Best case: Aradığımız sayının dizinin en başında olması.
+   
 Answer: Average case: Aradığımız sayının ortada olması
 
 
-## [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
-
+### [7,3,5,8,2,9,4,15,6] dizisinin Selection Sort'a göre ilk 4 adımını yazınız.
+Answer:
 Dizinin en küçük elemanını bulmak için tarama yapılır. Minimum değer 2'dir (dizi indeksi 4).
 Minimum değeri başlangıçta 2. eleman (5) olarak kabul ederiz.
 
